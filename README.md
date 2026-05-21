@@ -279,16 +279,3 @@ human-review additions.
 5. **Negation must be preserved.** Khmer often expresses negation
    discontinuously: `មិន … ទេ`. Dropping either component flips
    polarity. Both are in the dangerous list — keep both.
-
-## License & attribution
-
-Use freely for academic and commercial NLP work. If you publish results
-derived from this resource, please cite this build as
-*"Khmer NLP Stop-Word Dictionary v1, 2026"*.
-
-Linguistic references consulted:
-- Huffman, F. (1970). *Modern Spoken Cambodian*. Yale.
-- Haiman, J. (2011). *Cambodian: Khmer*. John Benjamins.
-- Khin Sok (2007). *La grammaire du khmer moderne*. You-Feng.
-- Headley et al. (1977). *Cambodian–English Dictionary*. CUA Press.
-- Unicode TR #20 — guidance on Khmer text processing.
