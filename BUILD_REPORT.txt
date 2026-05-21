@@ -1,0 +1,58 @@
+======================================================================
+KHMER STOP-WORD DICTIONARY — BUILD REPORT
+======================================================================
+Total unique entries:               22,612
+
+By category:
+  quantifier         20,036
+  noise               1,064
+  social                924
+  location              269
+  temporal               95
+  particle               51
+  formal_filler          45
+  pronoun                39
+  conjunction            37
+  low_sem_verb           21
+  negation               16
+  emotion_verb           15
+
+By frequency estimate:
+  High                  165
+  Medium              1,000
+  Low                21,447
+
+By safe-to-remove flag:
+  Yes                 2,481
+  Caution            20,090
+  No                     41
+
+By token type:
+  noise              21,764
+  compound              403
+  single                352
+  multi-word             93
+
+Stratified level lists (safe-to-remove only):
+  conservative        1,738
+  moderate            2,397
+  aggressive         22,534
+  dangerous              78
+
+Domain-specific lists:
+  news               20,553
+  social             21,974
+  academic           10,455
+  gov                10,486
+  youtube            11,274
+  fb                 11,417
+  ocr                21,557
+  web                21,393
+  conversational     10,443
+  religious          10,443
+  finance            10,441
+  legal              10,446
+  formal             10,450
+
+Regex alternation token count:      2,481
+======================================================================
